@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciChartTestTask", "SciChartTestTask\SciChartTestTask.csproj", "{0CD565E1-B405-4975-BB68-01A1C7982919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciChartTestTask.Services", "SciChartTestTask.Services\SciChartTestTask.Services.csproj", "{C192E82C-E42B-45EC-87E5-F865573DAB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD565E1-B405-4975-BB68-01A1C7982919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD565E1-B405-4975-BB68-01A1C7982919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD565E1-B405-4975-BB68-01A1C7982919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD565E1-B405-4975-BB68-01A1C7982919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C192E82C-E42B-45EC-87E5-F865573DAB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C192E82C-E42B-45EC-87E5-F865573DAB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C192E82C-E42B-45EC-87E5-F865573DAB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C192E82C-E42B-45EC-87E5-F865573DAB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72EA0436-6C68-48CA-89EB-D654EFDB32E1}
+	EndGlobalSection
+EndGlobal
